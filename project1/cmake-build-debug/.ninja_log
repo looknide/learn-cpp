@@ -1,0 +1,5 @@
+# ninja log v5
+1	285	7331303500816676	build.ninja	ddc29cabc3519607
+5	451	7326982382976492	CMakeFiles/project1.dir/countmain.cpp.obj	551ff5d30160f980
+17	432	7326337507445631	CMakeFiles/project1.dir/count.cpp.obj	280b68dac3a0f1e3
+449	679	7326981491908792	project1.exe	90d70c4f7f72a071
