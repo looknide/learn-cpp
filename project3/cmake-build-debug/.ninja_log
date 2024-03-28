@@ -1,0 +1,6 @@
+# ninja log v5
+0	287	7333725773483468	build.ninja	f021b207b64efeec
+4	401	7330544190948153	CMakeFiles/project3.dir/software_backup.cpp.obj	e48dd9cc9ac9752c
+4	469	7327153811733889	CMakeFiles/project3.dir/space.cpp.obj	d7ec08c453461bd
+402	608	7330544192901051	project3.exe	8f90b446dfbda8c
+3	629	7328795243254769	CMakeFiles/project3.dir/phone_number.cpp.obj	efd4ea7406593aad
