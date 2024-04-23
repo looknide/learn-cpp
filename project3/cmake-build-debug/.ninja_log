@@ -1,6 +1,9 @@
 # ninja log v5
-0	287	7333725773483468	build.ninja	f021b207b64efeec
+1	740	7353187977711099	build.ninja	f021b207b64efeec
 4	401	7330544190948153	CMakeFiles/project3.dir/software_backup.cpp.obj	e48dd9cc9ac9752c
 4	469	7327153811733889	CMakeFiles/project3.dir/space.cpp.obj	d7ec08c453461bd
-402	608	7330544192901051	project3.exe	8f90b446dfbda8c
+32	1360	7353177625329919	CMakeFiles/project3.dir/practice1_person.cpp.obj	284d717475c5cc43
+8	564	7353178497942994	project3.exe	9de4cfa347c8ba
 3	629	7328795243254769	CMakeFiles/project3.dir/phone_number.cpp.obj	efd4ea7406593aad
+4	402	7335076164421822	CMakeFiles/project3.dir/phone_service.cpp.obj	6cf602fad580b04d
+5	1160	7353178145887526	CMakeFiles/project3.dir/conpany_manage.cpp.obj	86a74e4f511d22cf

@@ -10,5 +10,8 @@ add_executable(
 #        space.cpp
 #        "phone number.cpp"
 #        "software backup.cpp"
-        "phone service.cpp"
-)
+#        "phone service.cpp"
+#        "phone_service.cpp"
+#        phone_service.cpp
+#        practice1_person.cpp
+        conpany_manage.cpp)

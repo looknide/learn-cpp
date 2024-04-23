@@ -117,7 +117,6 @@ int main(){
     phone2.print();
     phone2.stop(D);
     phone.print();
-    cout<<"---------------"<<endl;
-    }
+    cout<<"---
     return 0;
 }

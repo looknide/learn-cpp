@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/codeC/cpp_project/project3/cmake-build-debug/
 
 build cmake_object_order_depends_target_project3: phony || CMakeFiles/project3.dir
 
-build CMakeFiles/project3.dir/phone_service.cpp.obj: CXX_COMPILER__project3_Debug D$:/codeC/cpp_project/project3/phone$ service.cpp || cmake_object_order_depends_target_project3
-  DEP_FILE = CMakeFiles\project3.dir\phone_service.cpp.obj.d
+build CMakeFiles/project3.dir/conpany_manage.cpp.obj: CXX_COMPILER__project3_Debug D$:/codeC/cpp_project/project3/conpany_manage.cpp || cmake_object_order_depends_target_project3
+  DEP_FILE = CMakeFiles\project3.dir\conpany_manage.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
   INCLUDES = -ID:/codeC/cpp_project/project3/.
   OBJECT_DIR = CMakeFiles\project3.dir
@@ -64,7 +64,7 @@ build CMakeFiles/project3.dir/phone_service.cpp.obj: CXX_COMPILER__project3_Debu
 #############################################
 # Link the executable project3.exe
 
-build project3.exe: CXX_EXECUTABLE_LINKER__project3_Debug CMakeFiles/project3.dir/phone_service.cpp.obj
+build project3.exe: CXX_EXECUTABLE_LINKER__project3_Debug CMakeFiles/project3.dir/conpany_manage.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\project3.dir

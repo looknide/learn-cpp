@@ -1,0 +1,3 @@
+D:/codeC/cpp_project/project2/cmake-build-debug/CMakeFiles/project2.dir
+D:/codeC/cpp_project/project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codeC/cpp_project/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
